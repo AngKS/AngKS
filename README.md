@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+## I am Kah Shin, a student pursuing a Diploma in Applied AI & Analytics.
+
+This is my little stepping stone to increase my presence online by actively updating personal repositories on Github! :metal:
+As a Student, i've always loved to tinker in mini projects whenever i am free and i hope to meet more people with similiar interests in developing anything that will make a difference to others! :smile:
