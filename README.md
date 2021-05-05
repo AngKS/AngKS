@@ -20,9 +20,9 @@ Here are some ideas to get you started:
 
 ## &#x1f4c8; GitHub Stats 
 
-<a href="https://github.com/AngKS
+<a href="https://github.com/AngKS>
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=AngKS&show_icons=True&theme=cobalt" />
 </a>
-<a href="https://github.com/AngKS
+<a href="https://github.com/AngKS>
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AngKS&show_icons=true&theme=cobalt" />
 </a>
