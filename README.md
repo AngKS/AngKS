@@ -17,5 +17,12 @@ Here are some ideas to get you started:
 
 ## I am Kah Shin, a student pursuing a Diploma in Applied AI & Analytics.
 
-This is my little stepping stone to increase my presence online by actively updating personal repositories on Github! :metal:
-As a Student, i've always loved to tinker in mini projects whenever i am free and i hope to meet more people with similiar interests in developing anything that will make a difference to others! :smile:
+
+## &#x1f4c8; GitHub Stats 
+
+<a href="https://github.com/TYH71/TYH71%22%3E
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=TYH71&show_icons=True&theme=cobalt" />
+</a>
+<a href="https://github.com/TYH71/TYH71%22%3E
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TYH71&show_icons=true&theme=cobalt" />
+</a>
