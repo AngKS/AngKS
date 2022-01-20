@@ -7,16 +7,16 @@ Welcome to Kah Shin's profile! 👋
 
 <!-- Typing text -->
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?color=%23FF6B6B&size=25&center=true&vCenter=true&lines=Aspiring+software+developer;Always+learning+new+things;Loves+web+development"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?color=%5ccfe6&size=25&center=true&vCenter=true&lines=Aspiring+software+developer;Always+learning+new+things"></a>
 </p>
 
 <!-- Image -->
 <p align="center">
-    <img src="https://github.com/angks/angks/blob/main/assets/blogging.svg" width='400' />
+    <img src="https://github.com/angks/angks/assets/blogging.svg" width='400' />
 </p>
 
 <p align="center">
-    <a href="https://www.linkedin.com/in/devyn-chew-798653126/" target="_blank">
+    <a href="https://www.linkedin.com/in/kahshinang/" target="_blank">
         <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25>
     </a> 
     <a href="https://www.instagram.com/angks123/" target="_blank">
