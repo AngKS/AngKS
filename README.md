@@ -12,7 +12,7 @@ Welcome to Kah Shin's profile! 👋
 
 <!-- Image -->
 <p align="center">
-    <img src="https://github.com/angks/angks/assets/blogging.svg" width='400' />
+    <img src="https://github.com/AngKS/AngKS/blob/main/assets/blogging.svg" width='400' />
 </p>
 
 <p align="center">
