@@ -7,7 +7,7 @@ Welcome to Kah Shin's profile! 👋
 
 <!-- Typing text -->
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?color=%5ccfe6&size=25&center=true&vCenter=true&lines=Aspiring+software+developer;Always+learning+new+things"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?color=5ccfe6&size=25&center=true&vCenter=true&lines=Aspiring+software+developer;Always+learning+new+things"></a>
 </p>
 
 <!-- Image -->
