@@ -49,6 +49,7 @@ Welcome to Kah Shin's profile! 👋
 ## 🔥 Streak stats
 
 <!-- GitHub Readme Streak Stats - https://github.com/DenverCoder1/github-readme-streak-stats -->
+
 <p align="center">
     <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
         <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Devyn's streak" src="http://github-readme-streak-stats.herokuapp.com?user=angks&theme=monokai&hide_border=true&date_format=j%20M%5B%20Y%5D"/>
@@ -60,11 +61,6 @@ Welcome to Kah Shin's profile! 👋
 <p align="center">
     <a href="https://github.com/angks/github-readme-stats">
     <img title="Github Stats" alt="Kah Shin's github stats" src="https://github-readme-stats.vercel.app/api?username=angks&theme=monokai&hide_border=True"/>
-    </a>
-</p>
-<p align="center">
-    <a href="https://github.com/angks/github-readme-stats">
-    <img title="Github Stats" alt="Kah Shin's github stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=angks&theme=monokai&hide_border=True"/>
     </a>
 </p>
 
