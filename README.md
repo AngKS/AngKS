@@ -27,3 +27,4 @@ Welcome to Kah Shin's profile! 👋
   <img src="	https://img.shields.io/badge/VueJS-FFD43B?style=for-the-badge&logo=vue&logoColor=green">
 </p>
 
+<a align-center href="https://gitroll.io/profile/uOIY0Mb5SlUXKPRI0s9wy0Hrflan1" target="_blank"><img src="https://gitroll.io/api/badges/profiles/v1/uOIY0Mb5SlUXKPRI0s9wy0Hrflan1" alt="GitRoll Profile Badge"/></a>
